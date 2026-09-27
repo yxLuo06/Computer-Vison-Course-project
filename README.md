@@ -1,3 +1,23 @@
+# EN.601.661(02) Computer Vision - Course Project
+
+- click [here]\([https://whiteboard.cloud.microsoft/me/whiteboards/p/c3BvOmh0dHBzOi8vbGl2ZWpvaG5zaG9wa2lucy1teS5zaGFyZXBvaW50LmNvbS9wZXJzb25hbC9hY2hlcnV2Ml9qaF9lZHU%3d/b!reAG3KHhS0aF67rzwluLoFWuxjk4lm5Gk9qaOkSgffEI5GWe4kiDT5oXWVzVnAmd/01DEIPJTX726LX3CGVOREZ3MOCWX6DKZ3L?fromShare=true](https://whiteboard.cloud.microsoft/me/whiteboards/p/c3BvOmh0dHBzOi8vbGl2ZWpvaG5zaG9wa2lucy1teS5zaGFyZXBvaW50LmNvbS9wZXJzb25hbC9hY2hlcnV2Ml9qaF9lZHU%3d/b!reAG3KHhS0aF67rzwluLoFWuxjk4lm5Gk9qaOkSgffEI5GWe4kiDT5oXWVzVnAmd/01DEIPJTX726LX3CGVOREZ3MOCWX6DKZ3L?fromShare=true)) to write board
+- click [here]\([https://jhu.instructure.com/courses/132294](https://jhu.instructure.com/courses/132294)) to Canvas
+## Group members
+- Alex Luna-Ow <alunaow1@jh.edu>
+- Ahmed Cheruvattam <acheruv2@jh.edu>
+- Vincentz Luo <zluo46@jh.edu>
+- Will Luo <yluo87@jh.edu>
+## Important Deadlines
+| Assignment | Due Date | Points |
+|---|---|--|
+| Project Pre-proposal | October 5 | 5 |
+| Homework 1 | October 9 | 100 |
+| Project Full Proposal | October 19| 10 |
+| Project Paper Review | October 26 | 10 |
+| Project Midpoint Check-in | November 13 | 10 |
+| Project Final Report | December 7 | 50 |
+| Project Presentation (Slide Upload) | Not specified| Not specified |
+
 ## Instrument Tracking and Kinematics
 
 ### Goal
