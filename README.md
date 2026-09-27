@@ -1,10 +1,3 @@
-可以。Figure 1 展示单帧中的尖端标记、边界框及位置和速度信息；Figure 2 展示多个时间点的运动轨迹，以及位置和速率随时间变化的曲线。
-
-建议把它们称为示意图：图片中的数值和曲线未必严格对应，而且 Figure 2 的 “Tip velocity: 18 px/s” 是标量，更准确的名称是 “Tip speed”。
-
-将 README 中从 `## Instrument Tracking and Kinematics` 开始的部分替换为：
-
-```markdown
 ## Instrument Tracking and Kinematics
 
 ### Goal
@@ -118,4 +111,3 @@ The bounding-box centre is not necessarily the tool tip. Tip coordinates must th
 These measurements describe two-dimensional motion in the image plane. Camera movement, zoom, and perspective can affect the observed trajectory and speed.
 
 Converting pixels per second into physical units, such as millimetres per second, requires additional calibration and geometric information. Annotation noise can also affect velocity estimates because they are calculated from differences between positions.
-```
