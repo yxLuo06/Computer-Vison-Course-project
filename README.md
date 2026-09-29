@@ -4,7 +4,7 @@
 - click [here](https://jhu.instructure.com/courses/132294) to Canvas
 ## Group members
 - Alex Luna-Ow <alunaow1@jh.edu>
-- Ahmed Cheruvattam <acheruv2@jh.edu>
+- Ahmed Cheruvattam <acheruv2@jh.edu> hi
 - Vincentz Luo <zluo46@jh.edu>
 - Will Luo <yluo87@jh.edu>
 ## Important Deadlines
