@@ -2,6 +2,8 @@
 
 - click [here](https://whiteboard.cloud.microsoft/me/whiteboards/p/c3BvOmh0dHBzOi8vbGl2ZWpvaG5zaG9wa2lucy1teS5zaGFyZXBvaW50LmNvbS9wZXJzb25hbC9hY2hlcnV2Ml9qaF9lZHU%3d/b!reAG3KHhS0aF67rzwluLoFWuxjk4lm5Gk9qaOkSgffEI5GWe4kiDT5oXWVzVnAmd/01DEIPJTX726LX3CGVOREZ3MOCWX6DKZ3L?fromShare=true) to write board
 - click [here](https://jhu.instructure.com/courses/132294) to Canvas
+- click [here](https://livejohnshopkins-my.sharepoint.com/:w:/r/personal/acheruv2_jh_edu/Documents/Computer%20Vision%20Pre%20Proposal.docx?d=w981af54d95f144ebad376255accaec05&csf=1&web=1&e=46iT8r) to Pre-proposal (Shared Documents)
+
 ## Group members
 - Alex Luna-Ow <alunaow1@jh.edu>
 - Ahmed Cheruvattam <acheruv2@jh.edu> 
