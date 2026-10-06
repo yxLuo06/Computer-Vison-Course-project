@@ -9,6 +9,15 @@
 - Ahmed Cheruvattam <acheruv2@jh.edu> 
 - Vincentz Luo <zluo46@jh.edu>
 - Will Luo <yluo87@jh.edu>
+
+## Todo List
+1. Implement different method/models (At least one for each member)
+   - [Video-Based Surgical Tool-Tip and Keypoint Tracking Using Multi-Frame Context-Driven Deep Learning Models](https://shadowfax11.github.io/mfc_tracking/)
+   - [SRT-H: A hierarchical framework for autonomous surgery via language-conditioned imitation learning
+](https://www.science.org/doi/full/10.1126/scirobotics.adt5254)
+3. Do comparison with a new data set
+4. TBD
+
 ## Important Deadlines
 | Assignment | Due Date | Points |
 |---|---|--|
