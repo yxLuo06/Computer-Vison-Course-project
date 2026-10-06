@@ -13,7 +13,7 @@
 | Assignment | Due Date | Points |
 |---|---|--|
 | Project Pre-proposal | October 5 | 5 |
-| Homework 1 | October 9 | 100 |
+| Homework 1 | October 12 | 100 |
 | Project Full Proposal | October 19| 10 |
 | Project Paper Review | October 26 | 10 |
 | Project Midpoint Check-in | November 13 | 10 |
