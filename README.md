@@ -139,6 +139,19 @@ The bounding-box centre is not necessarily the tool tip. Tip coordinates must th
 
 ### Interpretation and Limitations
 
-These measurements describe two-dimensional motion in the image plane. Camera movement, zoom, and perspective can affect the observed trajectory and speed.
+### Pipeline for Instrument Keypoint Detection 
 
-Converting pixels per second into physical units, such as millimetres per second, requires additional calibration and geometric information. Annotation noise can also affect velocity estimates because they are calculated from differences between positions.
+## Tool-Tip Detection and Tracking Pipeline
+
+We will test pretrained **ConvNeXtSAM** on **CholecSeg8k RGB sequences** to estimate tool-tip-region displacement. These can be found here: https://github.com/FrancescoLeni/ConvNeXtSAM?utm_source=chatgpt.com and CholecSeg8K is pixel wise labelled dataset on kaggle here: https://www.kaggle.com/code/kerneler/starter-cholecseg8k-07367fcc-7/output
+
+1. **Detect:** Run the detector on each frame to obtain bounding boxes and confidence scores.
+2. **Locate:** Calculate each box center: `p = ((x1+x2)/2, (y1+y2)/2)`.
+3. **Associate:** Match detections across frames using center distance and one-to-one assignment. Retain a unique `track_id` for each matched instrument.
+4. **Calculate displacement:** For reliable consecutive matches, compute `Δp = p_current − p_previous`.
+5. **Calculate velocity:** Divide displacement by elapsed time: `velocity = Δp / Δt`, in **pixels/second**. Use frame timestamps, or `Δt = (current_frame_index − previous_frame_index) / FPS` when the original frame rate and indices are verified. For consecutive frames at 25 FPS, `Δt = 0.04 s`.
+6. **Export:** Overlay boxes, IDs, displacement, and velocity; save results to CSV.
+
+Process each continuous sequence independently and reset tracks between folders. Leave displacement and velocity missing for new or uncertain matches. Use original timing when frames are sampled or skipped.
+
+**Limitations:** Box centers approximate physical tip locations, and detection jitter can produce noisy velocities. CholecSeg8k masks do not provide exact tip-point labels, so manual annotations are needed for evaluation. Image velocity includes camera motion; obtaining mm/s requires metric calibration and depth information.
