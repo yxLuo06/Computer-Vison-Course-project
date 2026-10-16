@@ -1,18 +1,13 @@
-
 ```mermaid
 flowchart TD
-    A["Read video frame"] --> B{"Active track?"}
-    B -- No --> C["Detect tool-tip box"]
+    A["Read frame"] --> B{"Active track?"}
+    B -- No --> C["Detect tool-tip box with YOLO"]
     C --> D["Initialize position and feature points"]
-    D --> E["Read next frame"]
-    B -- Yes --> F["Track features with Lucas–Kanade"]
-    F --> G["Validate tracks and estimate displacement"]
-    G --> H{"Detection due or tracking unreliable?"}
-    H -- Yes --> I["Run detector and match to tracked tool"]
-    I --> J["Correct position and refresh features"]
-    H -- No --> K["Update position using optical flow"]
-    J --> L["Draw overlay and save coordinates"]
-    K --> L
-    L --> E
-    E --> B
+    B -- Yes --> E["Track features with Lucas–Kanade"]
+    E --> F{"Re-detection needed?"}
+    F -- Yes --> C
+    F -- No --> G["Update tip position"]
+    D --> H["Draw overlay and save coordinates"]
+    G --> H
+    H --> A
 ```
