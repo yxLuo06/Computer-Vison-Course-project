@@ -18,6 +18,12 @@
 3. Do comparison with a new data set
 4. TBD
 
+### Proposal requirement
+- Problem Area - Describe the problem area and why it is important to research.
+- Context - Write a paragraph on what others have done to solve this problem. Include some information on algorithms and their results. Use what you learned from the paper review too.
+- Data - Include specific information of what data you will use. How much data will you have? What types of data?
+- Proposed Solution - Write up a paragraph on your proposed solution. What algorithm(s) will you use? How will you evaluate the algorithms? What are the metrics you will use? What problems do you think you might encounter?
+
 ## Important Deadlines
 | Assignment | Due Date | Points |
 |---|---|--|
@@ -28,6 +34,9 @@
 | Project Midpoint Check-in | November 13 | 10 |
 | Project Final Report | December 7 | 50 |
 | Project Presentation (Slide Upload) | Not specified| Not specified |
+
+
+
 
 ## Instrument Tracking and Kinematics
 
