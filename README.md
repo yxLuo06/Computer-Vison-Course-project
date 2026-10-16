@@ -137,11 +137,7 @@ A bounding box may be recorded as an additional annotation to describe the instr
 
 The bounding-box centre is not necessarily the tool tip. Tip coordinates must therefore be labelled separately.
 
-### Interpretation and Limitations
-
-### Pipeline for Instrument Keypoint Detection 
-
-## Tool-Tip Detection and Tracking Pipeline
+## Tool-Tip Detection and Tracking Pipeline with pixel wise velocity estimation 
 
 We will test pretrained **ConvNeXtSAM** on **CholecSeg8k RGB sequences** to estimate tool-tip-region displacement. These can be found here: https://github.com/FrancescoLeni/ConvNeXtSAM?utm_source=chatgpt.com and CholecSeg8K is pixel wise labelled dataset on kaggle here: https://www.kaggle.com/code/kerneler/starter-cholecseg8k-07367fcc-7/output
 
