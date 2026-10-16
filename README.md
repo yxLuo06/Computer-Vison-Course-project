@@ -139,6 +139,8 @@ The bounding-box centre is not necessarily the tool tip. Tip coordinates must th
 
 ## Tool-Tip Detection and Tracking Pipeline 
 
+### Approach 1
+
 We will test pretrained **ConvNeXtSAM** on **CholecSeg8k RGB sequences** to estimate tool-tip-region displacement. These can be found here: https://github.com/FrancescoLeni/ConvNeXtSAM?utm_source=chatgpt.com and CholecSeg8K is pixel wise labelled dataset on kaggle here: https://www.kaggle.com/code/kerneler/starter-cholecseg8k-07367fcc-7/output
 
 1. **Detect:** Run the detector on each frame to obtain bounding boxes and confidence scores.
@@ -152,7 +154,7 @@ Process each continuous sequence independently and reset tracks between folders.
 
 **Limitations:** Box centers approximate physical tip locations and are not the actual tip center, and detection jitter can produce noisy velocities. CholecSeg8k masks do not provide exact tip-point labels, so manual annotations are needed for evaluation. Image velocity includes camera motion; obtaining mm/s requires metric calibration and depth information.
 
-Approach 2: YOLO Pose for Tool-Tip Localization and Velocity
+### Approach 2: YOLO Pose for Tool-Tip Localization and Velocity
 
 Train **YOLO Pose** using **EndoVis 2015 images and EndoVisPoseAnnotation keypoint labels** to predict instrument-tip coordinates directly. These can be found here: https://github.com/ultralytics/ultralytics/blob/main/README.md and https://github.com/surgical-vision/EndoVisPoseAnnotation?utm_source=chatgpt.com
 
