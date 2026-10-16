@@ -3,7 +3,7 @@
 - click [here](https://whiteboard.cloud.microsoft/me/whiteboards/p/c3BvOmh0dHBzOi8vbGl2ZWpvaG5zaG9wa2lucy1teS5zaGFyZXBvaW50LmNvbS9wZXJzb25hbC9hY2hlcnV2Ml9qaF9lZHU%3d/b!reAG3KHhS0aF67rzwluLoFWuxjk4lm5Gk9qaOkSgffEI5GWe4kiDT5oXWVzVnAmd/01DEIPJTX726LX3CGVOREZ3MOCWX6DKZ3L?fromShare=true) to write board
 - click [here](https://jhu.instructure.com/courses/132294) to Canvas
 - click [here](https://livejohnshopkins-my.sharepoint.com/:w:/g/personal/acheruv2_jh_edu/IQBN9RqY8ZXrRK03YlWsyuwFAWJvzYI30u94DS1zw56gDf4?e=qS2Mm1) to Pre-proposal (Shared Documents)
-- click [here](https://livejohnshopkins-my.sharepoint.com/personal/acheruv2_jh_edu/_layouts/15/doc.aspx?sourcedoc={de558dd5-70c0-4c6a-afc5-396c4493c614}&action=edit) to Full Project Proposal (Shared Documents)
+- click [here](https://livejohnshopkins-my.sharepoint.com/:w:/g/personal/acheruv2_jh_edu/IQDVjVXewHBqTK_FOWxEk8YUAZFaSJlUnDi15r1Neg-so4w?e=EetRBt) to Full Project Proposal (Shared Documents)
 
 ## Group members
 - Alex Luna-Ow <alunaow1@jh.edu>
