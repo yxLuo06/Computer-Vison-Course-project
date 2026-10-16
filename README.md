@@ -137,7 +137,7 @@ A bounding box may be recorded as an additional annotation to describe the instr
 
 The bounding-box centre is not necessarily the tool tip. Tip coordinates must therefore be labelled separately.
 
-## Tool-Tip Detection and Tracking Pipeline with pixel wise velocity estimation 
+## Tool-Tip Detection and Tracking Pipeline 
 
 We will test pretrained **ConvNeXtSAM** on **CholecSeg8k RGB sequences** to estimate tool-tip-region displacement. These can be found here: https://github.com/FrancescoLeni/ConvNeXtSAM?utm_source=chatgpt.com and CholecSeg8K is pixel wise labelled dataset on kaggle here: https://www.kaggle.com/code/kerneler/starter-cholecseg8k-07367fcc-7/output
 
@@ -150,4 +150,18 @@ We will test pretrained **ConvNeXtSAM** on **CholecSeg8k RGB sequences** to esti
 
 Process each continuous sequence independently and reset tracks between folders. Leave displacement and velocity missing for new or uncertain matches. Use original timing when frames are sampled or skipped.
 
-**Limitations:** Box centers approximate physical tip locations, and detection jitter can produce noisy velocities. CholecSeg8k masks do not provide exact tip-point labels, so manual annotations are needed for evaluation. Image velocity includes camera motion; obtaining mm/s requires metric calibration and depth information.
+**Limitations:** Box centers approximate physical tip locations and are not the actual tip center, and detection jitter can produce noisy velocities. CholecSeg8k masks do not provide exact tip-point labels, so manual annotations are needed for evaluation. Image velocity includes camera motion; obtaining mm/s requires metric calibration and depth information.
+
+Approach 2: YOLO Pose for Tool-Tip Localization and Velocity
+
+Train **YOLO Pose** using **EndoVis 2015 images and EndoVisPoseAnnotation keypoint labels** to predict instrument-tip coordinates directly. These can be found here: https://github.com/ultralytics/ultralytics/blob/main/README.md and https://github.com/surgical-vision/EndoVisPoseAnnotation?utm_source=chatgpt.com
+
+1. **Prepare data:** Convert annotations into YOLO Pose format, including instrument boxes, keypoints, and visibility flags.
+2. **Train:** Fine-tune the model to detect instruments and localize their landmarks, including jaw tips.
+3. **Associate:** Run inference on consecutive frames and assign persistent instrument IDs through for reliable matching of the the keypoint across frames 
+4. **Calculate motion:** For the same instrument and consistently defined tip point, calculate:
+   - **Displacement:** `Δp = p_current − p_previous`
+   - **Velocity:** `v = Δp / Δt` in **pixels/second**, using verified timestamps or original frame indices and FPS.
+5. **Export:** Overlay boxes, tip points, IDs, and velocity; save results to CSV
+
+Evaluate tip-location accuracy on held-out annotated frames. Reset tracks between sequences and omit velocity for missing or uncertain matches. Application to CholecSeg8k requires separate validation and may require fine-tuning. This approach replaces ConvNeXtSAM; optical flow is optional.
