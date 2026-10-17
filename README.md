@@ -168,6 +168,8 @@ Process each continuous sequence independently and reset tracks between folders.
 
 Train **YOLO Pose** using **EndoVis 2015 images and EndoVisPoseAnnotation keypoint labels** to predict instrument-tip coordinates directly. These can be found here: https://github.com/ultralytics/ultralytics/blob/main/README.md and https://github.com/surgical-vision/EndoVisPoseAnnotation?utm_source=chatgpt.com
 
+data set for EndoVis 2015: https://archive.iar.kit.edu/opencas/index.html%3Fq%3Dnode%252F30.html?utm_source=chatgpt.com
+
 1. **Prepare data:** Convert annotations into YOLO Pose format, including instrument boxes, keypoints, and visibility flags.
 2. **Train:** Fine-tune the model to detect instruments and localize their landmarks, including jaw tips.
 3. **Associate:** Run inference on consecutive frames and assign persistent instrument IDs through for reliable matching of the the keypoint across frames 
