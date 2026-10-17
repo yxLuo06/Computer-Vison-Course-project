@@ -12,11 +12,11 @@
 - Will Luo <yluo87@jh.edu>
 
 ## paper recommended
+- SurgXBench: Explainable Vision-Language Model Benchmark for Surgery [https://arxiv.org/abs/2505.10764]
 - [Video-Based Surgical Tool-Tip and Keypoint Tracking Using Multi-Frame Context-Driven Deep Learning Models](https://shadowfax11.github.io/mfc_tracking/)
 - Bridging Vision and Language for Robust Context-Aware Surgical Point Tracking: The VL-SurgPT Dataset and Benchmark: https://ojs.aaai.org/index.php/AAAI/article/view/38383?utm_source=chatgpt.com
 - SRT-H: A hierarchical framework for autonomous surgery via language-conditioned imitation learning
 (https://www.science.org/doi/full/10.1126/scirobotics.adt5254)
-- Bridging Vision and Language for Robust Context-Aware Surgical Point Tracking: The VL-SurgPT Dataset and Benchmark: https://ojs.aaai.org/index.php/AAAI/article/view/38383?utm_source=chatgpt.com
 - ROBUST-MIPS: A Combined Skeletal Pose and Instance Segmentation Dataset for Laparoscopic Surgical Instruments: https://www.nature.com/articles/s41597-026-06938-5?utm_source=chatgpt.com
 
 ### Proposal requirement
