@@ -1,0 +1,207 @@
+{
+  "protocol": {
+    "imgsz": 640,
+    "box_conf": 0.25,
+    "clasper_conf": 0.5,
+    "rmse": "minimum-distance one-to-one pairs without cutoff; unmatched truths excluded",
+    "threshold_matching": "maximum one-to-one match count inside radius, then minimum distance",
+    "excluded_frames": "whole annotated frame excluded when any tagged tool lacks a unique valid clasper pair"
+  },
+  "annotated_frames_total": 910,
+  "skipped": [
+    {
+      "sequence": 4,
+      "frame": 45,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 4,
+      "frame": 50,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 5,
+      "frame": 70,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 5,
+      "frame": 555,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 5,
+      "frame": 560,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 5,
+      "frame": 565,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 5,
+      "frame": 825,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 6,
+      "frame": 1005,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 6,
+      "frame": 1010,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 6,
+      "frame": 1015,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 6,
+      "frame": 1020,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 6,
+      "frame": 1025,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 6,
+      "frame": 1030,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 6,
+      "frame": 1035,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    },
+    {
+      "sequence": 6,
+      "frame": 1040,
+      "reason": "incomplete, conflicting or invalid clasper pairs"
+    }
+  ],
+  "overall": {
+    "frames": 895,
+    "truth": 1564,
+    "candidates": 981,
+    "assigned_for_rmse": 979,
+    "rmse_px": 13.68346309145773,
+    "hit_10px": 0.590153452685422,
+    "precision_20px": 0.9847094801223242,
+    "recall_20px": 0.6176470588235294,
+    "tp_20px": 966,
+    "fp_20px": 15,
+    "fn_20px": 598
+  },
+  "related_1_to_4": {
+    "frames": 306,
+    "truth": 386,
+    "candidates": 388,
+    "assigned_for_rmse": 386,
+    "rmse_px": 7.075625084258936,
+    "hit_10px": 0.9067357512953368,
+    "precision_20px": 0.9922680412371134,
+    "recall_20px": 0.9974093264248705,
+    "tp_20px": 385,
+    "fp_20px": 3,
+    "fn_20px": 1
+  },
+  "additional_5_to_6": {
+    "frames": 589,
+    "truth": 1178,
+    "candidates": 593,
+    "assigned_for_rmse": 593,
+    "rmse_px": 16.629090107686594,
+    "hit_10px": 0.4864176570458404,
+    "precision_20px": 0.9797639123102867,
+    "recall_20px": 0.4932088285229202,
+    "tp_20px": 581,
+    "fp_20px": 12,
+    "fn_20px": 597
+  },
+  "per_sequence": {
+    "1": {
+      "frames": 80,
+      "truth": 160,
+      "candidates": 162,
+      "assigned_for_rmse": 160,
+      "rmse_px": 6.305973948484983,
+      "hit_10px": 0.93125,
+      "precision_20px": 0.9876543209876543,
+      "recall_20px": 1.0,
+      "tp_20px": 160,
+      "fp_20px": 2,
+      "fn_20px": 0
+    },
+    "2": {
+      "frames": 76,
+      "truth": 76,
+      "candidates": 76,
+      "assigned_for_rmse": 76,
+      "rmse_px": 6.771986773848205,
+      "hit_10px": 0.9342105263157895,
+      "precision_20px": 1.0,
+      "recall_20px": 1.0,
+      "tp_20px": 76,
+      "fp_20px": 0,
+      "fn_20px": 0
+    },
+    "3": {
+      "frames": 76,
+      "truth": 76,
+      "candidates": 76,
+      "assigned_for_rmse": 76,
+      "rmse_px": 7.806046463098305,
+      "hit_10px": 0.8947368421052632,
+      "precision_20px": 0.9868421052631579,
+      "recall_20px": 0.9868421052631579,
+      "tp_20px": 75,
+      "fp_20px": 1,
+      "fn_20px": 1
+    },
+    "4": {
+      "frames": 74,
+      "truth": 74,
+      "candidates": 74,
+      "assigned_for_rmse": 74,
+      "rmse_px": 8.092438682447954,
+      "hit_10px": 0.8378378378378378,
+      "precision_20px": 1.0,
+      "recall_20px": 1.0,
+      "tp_20px": 74,
+      "fp_20px": 0,
+      "fn_20px": 0
+    },
+    "5": {
+      "frames": 296,
+      "truth": 592,
+      "candidates": 300,
+      "assigned_for_rmse": 300,
+      "rmse_px": 22.861024374854072,
+      "hit_10px": 0.4780405405405405,
+      "precision_20px": 0.97,
+      "recall_20px": 0.49155405405405406,
+      "tp_20px": 291,
+      "fp_20px": 9,
+      "fn_20px": 301
+    },
+    "6": {
+      "frames": 293,
+      "truth": 586,
+      "candidates": 293,
+      "assigned_for_rmse": 293,
+      "rmse_px": 4.954525486992099,
+      "hit_10px": 0.4948805460750853,
+      "precision_20px": 0.9897610921501706,
+      "recall_20px": 0.4948805460750853,
+      "tp_20px": 290,
+      "fp_20px": 3,
+      "fn_20px": 296
+    }
+  }
+}

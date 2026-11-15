@@ -1,0 +1,20 @@
+{
+  "total_images": 450,
+  "evaluated_images": 276,
+  "excluded_images": {
+    "invalid_line": 61,
+    "empty": 112,
+    "empty+invalid_line": 1
+  },
+  "truth": 552,
+  "eligible_predictions": 29,
+  "tp_20px": 18,
+  "fp_20px": 11,
+  "fn_20px": 534,
+  "precision_20px": 0.6206896551724138,
+  "recall_20px": 0.03260869565217391,
+  "pck_10px": 0.014492753623188406,
+  "rmse_px": 41.23352915397342,
+  "instances_used_for_rmse": 29,
+  "frames_without_prediction": 247
+}

@@ -1,5 +1,13 @@
 # EN.601.661(02) Computer Vision - Course Project
 
+## Implemented: YOLO Pose instrument tracking
+
+The [EndoVis Pose experiment](experiments/endovis-pose/README.md) documents the implemented pipeline, reproducibility steps, and measured results. We fine-tuned YOLO26n-Pose to predict a bounding box and five landmarks per instrument, used the midpoint of the two clasper landmarks as the tip, and associated tips across frames to estimate image-plane velocity.
+
+- Dataset4 validation: **11.54 px tip RMSE**, with **94.24% precision** and **96.22% recall** at 20 px.
+- Official EndoVis test: **98.47% precision**, **61.76% recall** at 20 px; recall dropped to **49.32%** in the two separately recorded sequences.
+- Controlled occlusion and two-instrument demonstrations are documented. Reliable identity through natural occlusion and velocity accuracy have not yet been established.
+
 - click [here](https://whiteboard.cloud.microsoft/me/whiteboards/p/c3BvOmh0dHBzOi8vbGl2ZWpvaG5zaG9wa2lucy1teS5zaGFyZXBvaW50LmNvbS9wZXJzb25hbC9hY2hlcnV2Ml9qaF9lZHU%3d/b!reAG3KHhS0aF67rzwluLoFWuxjk4lm5Gk9qaOkSgffEI5GWe4kiDT5oXWVzVnAmd/01DEIPJTX726LX3CGVOREZ3MOCWX6DKZ3L?fromShare=true) to write board
 - click [here](https://jhu.instructure.com/courses/132294) to Canvas
 - click [here](https://livejohnshopkins-my.sharepoint.com/:w:/g/personal/acheruv2_jh_edu/IQBN9RqY8ZXrRK03YlWsyuwFAWJvzYI30u94DS1zw56gDf4?e=qS2Mm1) to Pre-proposal (Shared Documents)

@@ -1,0 +1,34 @@
+{
+  "video": "EndoVis Dataset1 (seen during pose training)",
+  "fps": 25.0,
+  "frames": [
+    60,
+    220
+  ],
+  "annotation_frames": 32,
+  "evaluation_gate_px": 20,
+  "rejoin_checks": {
+    "suppressed_frames": [
+      105,
+      109
+    ],
+    "track_id": 1,
+    "missing_speed_blank": true,
+    "same_candidate_and_id_at_rejoin": true,
+    "rejoin_frame": 110,
+    "rejoin_speed_blank": true,
+    "speed_resumes_next_frame": true
+  },
+  "baseline": {
+    "annotated_instances": 64,
+    "matched": 64,
+    "observed_id_switches": 0,
+    "velocity_samples": 320
+  },
+  "controlled_gap": {
+    "annotated_instances": 64,
+    "matched": 63,
+    "observed_id_switches": 0,
+    "velocity_samples": 314
+  }
+}

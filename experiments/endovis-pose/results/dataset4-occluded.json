@@ -1,0 +1,26 @@
+{
+  "occlusion": {
+    "side_px": 24,
+    "fill_gray": 114,
+    "center": "ground truth clasper midpoint",
+    "labels_changed": false
+  },
+  "matching_rule_20px": "one annotated midpoint per frame; highest-scoring eligible candidate within 20 px is the sole match; remaining eligible candidates are false positives",
+  "tp_20px": 196,
+  "fp_20px": 46,
+  "fn_20px": 42,
+  "precision_20px": 0.8099173553719008,
+  "recall_20px": 0.8235294117647058,
+  "weights": "best.pt",
+  "validation_images": 238,
+  "box_confidence_min": 0.25,
+  "keypoint_score_min": 0.5,
+  "prediction_rule": "highest box score among candidates with both clasper scores passing",
+  "valid_midpoints": 238,
+  "missing_midpoints": 0,
+  "frames_with_multiple_valid_candidates": 4,
+  "rmse_px_on_valid_predictions": 16.71875422758782,
+  "mean_error_px_on_valid_predictions": 14.669923385809698,
+  "pck_10px_all_frames": 0.2815126050420168,
+  "pck_20px_all_frames": 0.8235294117647058
+}

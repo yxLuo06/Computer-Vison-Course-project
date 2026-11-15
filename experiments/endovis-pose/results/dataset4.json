@@ -1,0 +1,20 @@
+{
+  "matching_rule_20px": "one annotated midpoint per frame; highest-scoring eligible candidate within 20 px is the sole match; remaining eligible candidates are false positives",
+  "tp_20px": 229,
+  "fp_20px": 14,
+  "fn_20px": 9,
+  "precision_20px": 0.9423868312757202,
+  "recall_20px": 0.9621848739495799,
+  "weights": "best.pt",
+  "validation_images": 238,
+  "box_confidence_min": 0.25,
+  "keypoint_score_min": 0.5,
+  "prediction_rule": "highest box score among candidates with both clasper scores passing",
+  "valid_midpoints": 238,
+  "missing_midpoints": 0,
+  "frames_with_multiple_valid_candidates": 5,
+  "rmse_px_on_valid_predictions": 11.539667456612507,
+  "mean_error_px_on_valid_predictions": 8.687242409973278,
+  "pck_10px_all_frames": 0.7521008403361344,
+  "pck_20px_all_frames": 0.9621848739495799
+}
