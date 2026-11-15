@@ -1,0 +1,163 @@
+{
+    "codebase_version": "v2.1",
+    "robot_type": "daVinci Surgical Robot",
+    "fps": 19,
+    "total_episodes": 500,
+    "total_frames": 229232,
+    "total_tasks": 1,
+    "total_videos": 500,
+    "splits": {
+        "train": "0:399",
+        "val": "400:449",
+        "test": "450:499"
+    },
+    "data_path": "data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet",
+    "video_path": "videos/chunk-{episode_chunk:03d}/{video_key}/episode_{episode_index:06d}.mp4",
+    "features": {
+        "observation.state": {
+            "dtype": "float32",
+            "shape": [
+                26
+            ],
+            "names": [
+                "PSM1_joint_1",
+                "PSM1_joint_2",
+                "PSM1_joint_3",
+                "PSM1_joint_4",
+                "PSM1_joint_5",
+                "PSM1_joint_6",
+                "PSM1_jaw_angle",
+                "PSM1_ee_x",
+                "PSM1_ee_y",
+                "PSM1_ee_z",
+                "PSM1_ee_roll",
+                "PSM1_ee_pitch",
+                "PSM1_ee_yaw",
+                "PSM2_joint_1",
+                "PSM2_joint_2",
+                "PSM2_joint_3",
+                "PSM2_joint_4",
+                "PSM2_joint_5",
+                "PSM2_joint_6",
+                "PSM2_jaw_angle",
+                "PSM2_ee_x",
+                "PSM2_ee_y",
+                "PSM2_ee_z",
+                "PSM2_ee_roll",
+                "PSM2_ee_pitch",
+                "PSM2_ee_yaw"
+            ]
+        },
+        "action": {
+            "dtype": "float32",
+            "shape": [
+                14
+            ],
+            "names": [
+                "PSM1_jaw_angle",
+                "PSM1_ee_x",
+                "PSM1_ee_y",
+                "PSM1_ee_z",
+                "PSM1_ee_roll",
+                "PSM1_ee_pitch",
+                "PSM1_ee_yaw",
+                "PSM2_jaw_angle",
+                "PSM2_ee_x",
+                "PSM2_ee_y",
+                "PSM2_ee_z",
+                "PSM2_ee_roll",
+                "PSM2_ee_pitch",
+                "PSM2_ee_yaw"
+            ]
+        },
+        "observation.meta.tool_type": {
+            "dtype": "text",
+            "shape": [
+                2
+            ],
+            "names": [
+                "PSM1_tool_type",
+                "PSM2_tool_type"
+            ]
+        },
+        "observation.images.camera_left": {
+            "dtype": "video",
+            "shape": [
+                480,
+                640,
+                3
+            ],
+            "names": [
+                "height",
+                "width",
+                "channel"
+            ],
+            "info": {
+                "video.height": 480,
+                "video.width": 640,
+                "video.codec": "h264",
+                "video.is_depth_map": false,
+                "video.fps": 19,
+                "video.channels": 3,
+                "has_audio": false
+            }
+        },
+        "observation.images.camera_right": {
+            "dtype": "video",
+            "shape": [
+                480,
+                640,
+                3
+            ],
+            "names": [
+                "height",
+                "width",
+                "channel"
+            ],
+            "info": {
+                "video.height": 480,
+                "video.width": 640,
+                "video.codec": "h264",
+                "video.is_depth_map": false,
+                "video.fps": 19,
+                "video.channels": 3,
+                "has_audio": false
+            }
+        },
+        "timestamp": {
+            "dtype": "float32",
+            "shape": [
+                1
+            ],
+            "names": null
+        },
+        "frame_index": {
+            "dtype": "int64",
+            "shape": [
+                1
+            ],
+            "names": null
+        },
+        "episode_index": {
+            "dtype": "int64",
+            "shape": [
+                1
+            ],
+            "names": null
+        },
+        "index": {
+            "dtype": "int64",
+            "shape": [
+                1
+            ],
+            "names": null
+        },
+        "task_index": {
+            "dtype": "int64",
+            "shape": [
+                1
+            ],
+            "names": null
+        }
+    }
+}

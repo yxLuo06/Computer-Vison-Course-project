@@ -1,0 +1,599 @@
+{"task_index": 0, "task": "Place the probe on the elbow."}
+{"task_index": 1, "task": "Set the probe on the elbow."}
+{"task_index": 2, "task": "Set the probe over the lateral side of the upper arm."}
+{"task_index": 3, "task": "Position the probe over the wrist."}
+{"task_index": 4, "task": "Position the probe on the medial side of the upper arm."}
+{"task_index": 5, "task": "Put the probe on the middle of the forearm surface."}
+{"task_index": 6, "task": "Put the probe on the elbow."}
+{"task_index": 7, "task": "Apply the probe over the lateral side of the upper arm."}
+{"task_index": 8, "task": "Put the probe over the wrist."}
+{"task_index": 9, "task": "Position the probe on the middle of the forearm surface."}
+{"task_index": 10, "task": "Place the probe on the medial side of the upper arm."}
+{"task_index": 11, "task": "Set the probe over the wrist."}
+{"task_index": 12, "task": "Position the probe on the elbow."}
+{"task_index": 13, "task": "Set the probe on the middle of the forearm surface."}
+{"task_index": 14, "task": "Apply the probe over the wrist."}
+{"task_index": 15, "task": "Put the probe over the lateral side of the upper arm."}
+{"task_index": 16, "task": "Apply the probe on the middle of the forearm surface."}
+{"task_index": 17, "task": "Apply the probe on the medial side of the upper arm."}
+{"task_index": 18, "task": "Put the probe on the medial side of the upper arm."}
+{"task_index": 19, "task": "Apply the probe on the elbow."}
+{"task_index": 20, "task": "Place the probe over the lateral side of the upper arm."}
+{"task_index": 21, "task": "Place the probe over the wrist."}
+{"task_index": 22, "task": "Place the probe on the middle of the forearm surface."}
+{"task_index": 23, "task": "Position the probe over the lateral side of the upper arm."}
+{"task_index": 24, "task": "Set the probe on the medial side of the upper arm."}
+{"task_index": 25, "task": "Scan the radial artery in a transverse orientation from the wrist to the proximal forearm."}
+{"task_index": 26, "task": "Perform a transverse scan of the radial artery from the dsital forearm to the elbow."}
+{"task_index": 27, "task": "Scan the radial artery with a transverse view from the wrist to the elbow."}
+{"task_index": 28, "task": "Scan the radial artery transversely from the wrist to the elbow."}
+{"task_index": 29, "task": "Perform a transverse scan of the radial artery from the distal forearm to the proximal forearm."}
+{"task_index": 30, "task": "Perform a transverse scan of the basilic vein from the proximal forearm to the proximal upper arm."}
+{"task_index": 31, "task": "Scan the ulnar artery in a transverse view from the wrist to the elbow."}
+{"task_index": 32, "task": "Perform a longitudinal scan of the ulnar artery from the elbow to the wrist."}
+{"task_index": 33, "task": "Conduct a transverse scan of the radial artery from the distal forearm to the proximal forearm."}
+{"task_index": 34, "task": "Examine the radial artery with a transverse scan from the elbow to the mid forearm."}
+{"task_index": 35, "task": "Track the radial artery transversely from the distal forearm to the elbow."}
+{"task_index": 36, "task": "Track the radial artery transversely from the wrist to the proximal forearm."}
+{"task_index": 37, "task": "Perform a transverse scan of the radial artery from the elbow to the wrist."}
+{"task_index": 38, "task": "Conduct a transverse scan of the cephalic vein from the elbow to the mid upper arm."}
+{"task_index": 39, "task": "Track the cephalic vein transversely from the proximal forearm to mid upper arm."}
+{"task_index": 40, "task": "Perform a transverse scan of the ulnar artery from the wrist to the elbow."}
+{"task_index": 41, "task": "Scan the cephalic vein in a transverse view from the proximal forearm to the proximal upper arm."}
+{"task_index": 42, "task": "Track the cephalic vein transversely from the elbow to the proximal upper arm."}
+{"task_index": 43, "task": "Examine the ulnar artery with a transverse scan from the wrist to the elbow."}
+{"task_index": 44, "task": "Perform a transverse scan of the cephalic vein from the proximal forearm to the mid upper arm."}
+{"task_index": 45, "task": "Perform a longitudinal scan of the ulnar artery from the distal forearm to the proximal forearm."}
+{"task_index": 46, "task": "Perform a longitudinal scan of the ulnar artery from the elbow to the mid forearm."}
+{"task_index": 47, "task": "Perform a longitudinal scan of the basilic vein from the elbow to the proximal upper arm."}
+{"task_index": 48, "task": "Track the basilic vein longitudinally from the mid upper arm to the distal upper arm."}
+{"task_index": 49, "task": "Examine the cephalic vein with a transverse scan from the mid upper arm to the elbow."}
+{"task_index": 50, "task": "Track the basilic vein in a transverse orientation from the proximal upper arm to the elbow."}
+{"task_index": 51, "task": "Examine the ulnar artery with a transverse scan from the proximal forearm to the wrist."}
+{"task_index": 52, "task": "Perform a transverse scan of the basilic vein from the proximal upper arm to the elbow."}
+{"task_index": 53, "task": "Perform a transverse scan of the radial artery from the wrist to the distal upper arm."}
+{"task_index": 54, "task": "Examine the cephalic vein with a transverse scan from the proximal forearm to the proximal upper arm."}
+{"task_index": 55, "task": "Examine the radial artery longitudinally from the elbow to the distal forearm."}
+{"task_index": 56, "task": "Perform a transverse scan of the cephalic vein from the elbow to the proximal upper arm."}
+{"task_index": 57, "task": "Perform a transverse scan of the cephalic vein from the distal upper arm to the mid upper arm."}
+{"task_index": 58, "task": "Track the basilic vein longitudinally from the elbow to the proximal upper arm."}
+{"task_index": 59, "task": "Scan the radial artery in a longitudinal view from the distal forearm to the elbow."}
+{"task_index": 60, "task": "Scan the radial artery in a transverse view from the mid forearm to the elbow."}
+{"task_index": 61, "task": "Perform the ulnar artery longitudinally from the distal forearm to the proximal forearm."}
+{"task_index": 62, "task": "Track the ulnar artery longitudinally from the wrist to the proximal forearm."}
+{"task_index": 63, "task": "Track the basilic vein longitudinally from the elbow to the mid upper arm."}
+{"task_index": 64, "task": "Examine the cephalic vein transversely from the elbow to the proximal upper arm."}
+{"task_index": 65, "task": "Perform a transverse scan of the ulnar artery from the distal forearm to the proximal forearm."}
+{"task_index": 66, "task": "Track the basilic vein in a transverse view from the elbow to the distal upper arm."}
+{"task_index": 67, "task": "Perform a transverse scan of the basilic vein from the distal upper arm to the mid upper arm."}
+{"task_index": 68, "task": "Conduct a transverse scan of the ulnar artery from the proximal forearm to the wrist."}
+{"task_index": 69, "task": "Perform a transverse scan of the ulnar artery from the wrist to the mid forearm."}
+{"task_index": 70, "task": "Track the ulnar artery transversely from the elbow to the wrist."}
+{"task_index": 71, "task": "Scan the ulnar artery transversely from the distal forearm to the mid forearm."}
+{"task_index": 72, "task": "Perform a transverse scan of the ulnar artery from the distal forearm to the elbow."}
+{"task_index": 73, "task": "Perform a transverse scan of the ulnar artery from the proximal forearm to the mid forearm."}
+{"task_index": 74, "task": "Scan the ulnar artery with a transverse scan from the distal forearm to the proximal forearm."}
+{"task_index": 75, "task": "Scan the ulnar artery in a transverse orientation from the wrist to the proximal forearm."}
+{"task_index": 76, "task": "Track the ulnar artery transversely from the mid forearm to the elbow."}
+{"task_index": 77, "task": "Conduct a transverse scan of the ulnar artery from the proximal forearm to the mid forearm."}
+{"task_index": 78, "task": "Track the cephalic vein in a transverse orientation from the distal upper arm to the proximal upper arm."}
+{"task_index": 79, "task": "Track the cephalic vein in a transverse orientation from the proximal forearm to the mid upper arm."}
+{"task_index": 80, "task": "Conduct a longitudinal scan of the ulnar artery from the wrist to the distal upper arm."}
+{"task_index": 81, "task": "Scan the cephalic vein transversely from the distal upper arm to the proximal upper arm."}
+{"task_index": 82, "task": "Examine the radial artery with a longitudinal scan from the elbow to the mid forearm."}
+{"task_index": 83, "task": "Perform a transverse scan of the radial artery from the mid forearm to the elbow."}
+{"task_index": 84, "task": "Perform a longitudinal scan of the ulnar artery from the wrist to the elbow."}
+{"task_index": 85, "task": "Scan the basilic vein transversely from the elbow to the proximal upper arm."}
+{"task_index": 86, "task": "Perform a transverse scan of the basilic vein from the proximal forearm to the mid upper arm."}
+{"task_index": 87, "task": "Track the basilic vein in a transverse view from the elbow to the proximal upper arm."}
+{"task_index": 88, "task": "Perform the ulnar artery with a longitudinal scan from the distal forearm to the proximal forearm."}
+{"task_index": 89, "task": "Scan the ulnar artery transversely from the distal forearm to the elbow."}
+{"task_index": 90, "task": "Perform a longitudinal scan of the ulnar artery from the wrist to the proximal forearm."}
+{"task_index": 91, "task": "Track the ulnar artery longitudinally from the wrist to the elbow."}
+{"task_index": 92, "task": "Scan the basilic vein transversely from the proximal forearm to the mid upper arm."}
+{"task_index": 93, "task": "Perform a longitudinal scan of the radial artery from the wrist to the elbow."}
+{"task_index": 94, "task": "Perform a longitudinal scan of the radial artery from the proximal forearm to the wrist."}
+{"task_index": 95, "task": "Conduct a longitudinal scan of the radial artery from the elbow to the distal forearm."}
+{"task_index": 96, "task": "Track the radial artery in a longitudinal view from the wrist to the elbow."}
+{"task_index": 97, "task": "Scan the cephalic vein transversely from the proximal forearm to the mid upper arm."}
+{"task_index": 98, "task": "Conduct a transverse scan of the basilic vein from the proximal forearm to the mid upper arm."}
+{"task_index": 99, "task": "Scan the radial artery transversely from the wrist to the proximal forearm."}
+{"task_index": 100, "task": "Perform a transverse scan of the ulnar artery from the wrist to the proximal forearm."}
+{"task_index": 101, "task": "Scan the basilic vein transversely from the mid upper arm to the upper arm."}
+{"task_index": 102, "task": "Track the ulnar artery with a longitudinal view from the mid forearm to distal the upper arm."}
+{"task_index": 103, "task": "Track the radial artery transversely from the wrist to the elbow."}
+{"task_index": 104, "task": "Track the radial artery longitudinally from the wrist to the elbow."}
+{"task_index": 105, "task": "Examine the cephalic vein with a transverse scan from the elbow to the mid upper arm."}
+{"task_index": 106, "task": "Track the cephalic vein in a transverse orientation from the elbow to the proximal upper arm."}
+{"task_index": 107, "task": "Track the cephalic vein with a transverse view from the elbow to the proximal upper arm."}
+{"task_index": 108, "task": "Perform a transverse scan of the cephalic vein from the proximal forearm to the proximal upper arm."}
+{"task_index": 109, "task": "Scan the radial artery in a transverse orientation from the distal forearm to the mid forearm."}
+{"task_index": 110, "task": "Conduct a transverse scan of the cephalic vein from the proximal forearm to the mid upper arm."}
+{"task_index": 111, "task": "Examine the radial artery with a longitudinal scan from the wrist to the elbow."}
+{"task_index": 112, "task": "Track a transverse scan of the cephalic vein from the proximal forearm to the mid upper arm."}
+{"task_index": 113, "task": "Perform a transverse scan of the cephalic vein from the elbow to the mid upper arm."}
+{"task_index": 114, "task": "Track the basilic vein transversely from the elbow to the proximal upper arm."}
+{"task_index": 115, "task": "Perform a transverse scan of the basilic vein from the distal upper arm to the proximal upper arm."}
+{"task_index": 116, "task": "Track the radial artery in a longitudinal orientation from the elbow to the distal forearm."}
+{"task_index": 117, "task": "Scan the radial artery in a transverse orientation from the wrist to the elbow."}
+{"task_index": 118, "task": "Track the cephalic vein with a transverse scan from the proximal forearm to the mid upper arm."}
+{"task_index": 119, "task": "Track the ulnar artery transversely from the wrist to the elbow."}
+{"task_index": 120, "task": "Scan the cephalic vein with a transverse scan from the elbow to the proximal upper arm."}
+{"task_index": 121, "task": "Track the radial artery in a longitudinal view from the proximal forearm to the mid forearm."}
+{"task_index": 122, "task": "Follow the cephalic vein with a transverse view from the distal upper arm to the proximal upper arm."}
+{"task_index": 123, "task": "Conduct a longitudinal scan of the radial artery from the distal upper arm to the wrist."}
+{"task_index": 124, "task": "Perform a transverse scan of the ulnar artery from the proximal forearm to the wrist."}
+{"task_index": 125, "task": "Scan the radial artery transversely from the elbow to the mid forearm."}
+{"task_index": 126, "task": "Scan the cephalic vein transversely from the elbow to the proximal upper arm."}
+{"task_index": 127, "task": "Scan the basilic vein in a transverse view from the mid upper arm to the elbow."}
+{"task_index": 128, "task": "Track the cephalic vein in a transverse view from the proximal forearm to the mid upper arm."}
+{"task_index": 129, "task": "Perform a longitudinal scan of the radial artery from the mid forearm to the distal upper arm."}
+{"task_index": 130, "task": "Perform a transverse scan of the radial artery from the wrist to the elbow."}
+{"task_index": 131, "task": "Scan the radial artery transversely from the elbow to the distal forearm."}
+{"task_index": 132, "task": "Conduct a transverse scan of the ulnar artery from the wrist to the proximal forearm."}
+{"task_index": 133, "task": "Scan the cephalic vein in a transverse view from the elbow to the proximal upper arm."}
+{"task_index": 134, "task": "Scan the brachial artery transversely from the proximal forearm to the mid upper arm."}
+{"task_index": 135, "task": "Track the basilic vein transversely from the proximal forearm to the mid upper arm."}
+{"task_index": 136, "task": "Scan the ulnar artery longitudinally from the elbow to the mid forearm."}
+{"task_index": 137, "task": "Scan the basilic vein in a transverse view from the proximal forearm to the proximal upper arm."}
+{"task_index": 138, "task": "Scan the basilic vein longitudinally from the proximal forearm to mid upper arm."}
+{"task_index": 139, "task": "Scan the ulnar artery transversely from the wrist to the proximal forearm."}
+{"task_index": 140, "task": "Examine the cephalic vein with a transverse scan from the elbow to the proximal upper arm."}
+{"task_index": 141, "task": "Scan the cephalic vein in a transverse view from the elbow to the mid upper arm."}
+{"task_index": 142, "task": "Conduct a transverse scan of the basilic vein from the distal upper arm to the proximal upper arm."}
+{"task_index": 143, "task": "Examine the basilic vein with a transverse scan from the mid upper arm to the elbow."}
+{"task_index": 144, "task": "Perform a transverse scan of the basilic vein from the elbow to the mid upper arm."}
+{"task_index": 145, "task": "Conduct a transverse scan of the radial artery from the mid forearm to the elbow."}
+{"task_index": 146, "task": "Track the radial artery with a longitudinal view from the elbow to the distal forearm."}
+{"task_index": 147, "task": "Track the cephalic vein in a transverse orientation from the elbow to the mid upper arm."}
+{"task_index": 148, "task": "Perform a transverse scan of the basilic vein from the elbow to the proximal upper arm."}
+{"task_index": 149, "task": "Perform a transverse scan of the cephalic vein from the distal upper arm to the proximal upper arm."}
+{"task_index": 150, "task": "Scan the ulnar artery in a longitudinal view from the elbow to the mid forearm."}
+{"task_index": 151, "task": "Examine the ulnar artery with a longitudinal scan from the mid forearm arm to the elbow."}
+{"task_index": 152, "task": "Scan the basilic vein with a transverse scan from the elbow to the proximal upper arm."}
+{"task_index": 153, "task": "Scan the cephalic vein in a transverse view from the mid upper arm to the elbow."}
+{"task_index": 154, "task": "Track the basilic vein transversely from the mid upper arm to the distal upper arm."}
+{"task_index": 155, "task": "Examine the radial artery with a longitudinal scan from the proximal forearm to the mid forearm."}
+{"task_index": 156, "task": "Track the cephalic vein in a transverse view from the elbow to the proximal upper arm."}
+{"task_index": 157, "task": "Scan the basilic vein transversely from the proximal forearm to mid upper arm."}
+{"task_index": 158, "task": "Examine the ulnar artery in a transverse view from the wrist to the proximal forearm."}
+{"task_index": 159, "task": "Track the basilic vein transversely from the elbow to the mid upper arm."}
+{"task_index": 160, "task": "Perform a longitudinal scan of the radial artery from the distal forearm to the proximal forearm."}
+{"task_index": 161, "task": "Track the basilic vein in a transverse view from the proximal forearm to the mid upper arm."}
+{"task_index": 162, "task": "Track the ulnar artery in a transverse view from the distal forearm to the elbow."}
+{"task_index": 163, "task": "Follow the basilic vein in a transverse view from the proximal forearm to the mid upper arm."}
+{"task_index": 164, "task": "Scan the ulnar artery with a transverse view from the proximal forearm to the distal forearm."}
+{"task_index": 165, "task": "Follow the basilic vein in a transverse view from the elbow to the mid upper arm."}
+{"task_index": 166, "task": "Examine the ulnar artery with a longitudinal scan from the wrist to the proximal forearm."}
+{"task_index": 167, "task": "Conduct a transverse scan of the basilic vein from the elbow to the proximal upper arm."}
+{"task_index": 168, "task": "Conduct a transverse scan of the basilic vein from the distal upper arm to the mid upper arm."}
+{"task_index": 169, "task": "Perform a longitudinal scan of the radial artery from the wrist to the proximal forearm."}
+{"task_index": 170, "task": "Track the basilic vein with a transverse view from the proximal forearm to the mid upper arm."}
+{"task_index": 171, "task": "Track the basilic vein with a transverse scan from the distal upper arm to the upper arm."}
+{"task_index": 172, "task": "Perform a longitudinal scan of the basilic vein from the proximal upper arm to the elbow."}
+{"task_index": 173, "task": "Perform a transverse scan of the cephalic vein from the proximal upper arm to the elbow."}
+{"task_index": 174, "task": "Scan the brachial artery in a transverse view from the proximal forearm to the proximal upper arm."}
+{"task_index": 175, "task": "Perform a transverse scan of the brachial artery from the proximal forearm to the mid upper arm."}
+{"task_index": 176, "task": "Perform a transverse scan of the brachial artery from the elbow to the mid upper arm."}
+{"task_index": 177, "task": "Track the brachial artery in a transverse view from the elbow to the proximal upper arm."}
+{"task_index": 178, "task": "Track the brachial artery with a transverse scan from the distal upper arm to the upper arm."}
+{"task_index": 179, "task": "Sweep the brachial artery in a transverse plane from the elbow crease to the mid upper arm."}
+{"task_index": 180, "task": "Conduct a transverse scan of the brachial artery from the distal upper arm to the mid upper arm."}
+{"task_index": 181, "task": "Track the brachial artery transversely from the elbow to the proximal upper arm."}
+{"task_index": 182, "task": "Track the brachial artery in a transverse view from the proximal forearm to the mid upper arm."}
+{"task_index": 183, "task": "Track the brachial artery transversely from the elbow to the mid upper arm."}
+{"task_index": 184, "task": "Perform a transverse scan of the brachial artery from the elbow to the proximal upper arm."}
+{"task_index": 185, "task": "Scan the brachial artery transversely from the elbow to the proximal upper arm."}
+{"task_index": 186, "task": "Perform a transverse scan of the brachial artery from the distal upper arm to the proximal upper arm."}
+{"task_index": 187, "task": "Sweep the brachial artery transversely from the antecubital fossa toward the axilla."}
+{"task_index": 188, "task": "Scan the brachial artery transversely from the mid upper arm to the upper arm."}
+{"task_index": 189, "task": "Scan the brachial artery with a transverse scan from the elbow to the proximal upper arm."}
+{"task_index": 190, "task": "Perform a transverse scan of the brachial artery from the distal upper arm to the mid upper arm."}
+{"task_index": 191, "task": "Conduct a transverse scan of the brachial artery from the proximal forearm to the mid upper arm."}
+{"task_index": 192, "task": "Scan the brachial artery transversely from the proximal forearm to mid upper arm."}
+{"task_index": 193, "task": "Perform a transverse scan of the brachial artery from the proximal forearm to the proximal upper arm."}
+{"task_index": 194, "task": "Track the brachial artery with a transverse view from the proximal forearm to the mid upper arm."}
+{"task_index": 195, "task": "Set the probe over the upper right area of the abdomen."}
+{"task_index": 196, "task": "Apply the probe over the upper right area of the abdomen."}
+{"task_index": 197, "task": "Position the probe over the upper right area of the abdomen."}
+{"task_index": 198, "task": "Apply the probe on the upper right area of the abdomen."}
+{"task_index": 199, "task": "Put the probe over the upper right area of the abdomen."}
+{"task_index": 200, "task": "Place the probe over the upper right area of the abdomen."}
+{"task_index": 201, "task": "Put the probe on the upper right area of the abdomen."}
+{"task_index": 202, "task": "Place the probe on the upper right area of the abdomen."}
+{"task_index": 203, "task": "Set the probe on the upper right area of the abdomen."}
+{"task_index": 204, "task": "Position the probe on the upper right area of the abdomen."}
+{"task_index": 205, "task": "Position the probe on the upper left side of the abdomen."}
+{"task_index": 206, "task": "Apply the probe over the upper left side of the abdomen."}
+{"task_index": 207, "task": "Apply the probe on the upper left side of the abdomen."}
+{"task_index": 208, "task": "Set the probe on the upper left side of the abdomen."}
+{"task_index": 209, "task": "Set the probe over the upper left side of the abdomen."}
+{"task_index": 210, "task": "Place the probe over the upper left side of the abdomen."}
+{"task_index": 211, "task": "Put the probe on the upper left side of the abdomen."}
+{"task_index": 212, "task": "Put the probe over the upper left side of the abdomen."}
+{"task_index": 213, "task": "Place the probe on the upper left side of the abdomen."}
+{"task_index": 214, "task": "Position the probe over the upper left side of the abdomen."}
+{"task_index": 215, "task": "Position the probe on the center of the upper abdomen."}
+{"task_index": 216, "task": "Put the probe over the center of the upper abdomen."}
+{"task_index": 217, "task": "Position the probe over the center of the upper abdomen."}
+{"task_index": 218, "task": "Set the probe over the center of the upper abdomen."}
+{"task_index": 219, "task": "Place the probe over the center of the upper abdomen."}
+{"task_index": 220, "task": "Set the probe on the center of the upper abdomen."}
+{"task_index": 221, "task": "Place the probe on the center of the upper abdomen."}
+{"task_index": 222, "task": "Put the probe on the center of the upper abdomen."}
+{"task_index": 223, "task": "Apply the probe on the center of the upper abdomen."}
+{"task_index": 224, "task": "Apply the probe over the center of the upper abdomen."}
+{"task_index": 225, "task": "Place the probe over the area below the rib cage on the right side."}
+{"task_index": 226, "task": "Position the probe over the area below the rib cage on the right side."}
+{"task_index": 227, "task": "Put the probe on the area below the rib cage on the right side."}
+{"task_index": 228, "task": "Set the probe on the area below the rib cage on the right side."}
+{"task_index": 229, "task": "Place the probe on the area below the rib cage on the right side."}
+{"task_index": 230, "task": "Position the probe on the area below the rib cage on the right side."}
+{"task_index": 231, "task": "Put the probe over the area below the rib cage on the right side."}
+{"task_index": 232, "task": "Set the probe over the area below the rib cage on the right side."}
+{"task_index": 233, "task": "Apply the probe over the area below the rib cage on the right side."}
+{"task_index": 234, "task": "Apply the probe on the area below the rib cage on the right side."}
+{"task_index": 235, "task": "Apply the probe on the area below the rib cage on the left side."}
+{"task_index": 236, "task": "Put the probe over the area below the rib cage on the left side."}
+{"task_index": 237, "task": "Set the probe on the area below the rib cage on the left side."}
+{"task_index": 238, "task": "Set the probe over the area below the rib cage on the left side."}
+{"task_index": 239, "task": "Position the probe on the area below the rib cage on the left side."}
+{"task_index": 240, "task": "Apply the probe over the area below the rib cage on the left side."}
+{"task_index": 241, "task": "Place the probe over the area below the rib cage on the left side."}
+{"task_index": 242, "task": "Place the probe on the area below the rib cage on the left side."}
+{"task_index": 243, "task": "Position the probe over the area below the rib cage on the left side."}
+{"task_index": 244, "task": "Put the probe on the area below the rib cage on the left side."}
+{"task_index": 245, "task": "Apply the probe over the middle of the abdomen."}
+{"task_index": 246, "task": "Put the probe on the middle of the abdomen."}
+{"task_index": 247, "task": "Set the probe over the middle of the abdomen."}
+{"task_index": 248, "task": "Position the probe over the middle of the abdomen."}
+{"task_index": 249, "task": "Apply the probe on the middle of the abdomen."}
+{"task_index": 250, "task": "Set the probe on the middle of the abdomen."}
+{"task_index": 251, "task": "Place the probe on the middle of the abdomen."}
+{"task_index": 252, "task": "Put the probe over the middle of the abdomen."}
+{"task_index": 253, "task": "Position the probe on the middle of the abdomen."}
+{"task_index": 254, "task": "Place the probe over the middle of the abdomen."}
+{"task_index": 255, "task": "Position the probe on the left side of the abdomen."}
+{"task_index": 256, "task": "Set the probe over the left side of the abdomen."}
+{"task_index": 257, "task": "Apply the probe on the left side of the abdomen."}
+{"task_index": 258, "task": "Apply the probe over the left side of the abdomen."}
+{"task_index": 259, "task": "Position the probe over the left side of the abdomen."}
+{"task_index": 260, "task": "Place the probe on the left side of the abdomen."}
+{"task_index": 261, "task": "Set the probe on the left side of the abdomen."}
+{"task_index": 262, "task": "Put the probe over the left side of the abdomen."}
+{"task_index": 263, "task": "Place the probe over the left side of the abdomen."}
+{"task_index": 264, "task": "Put the probe on the left side of the abdomen."}
+{"task_index": 265, "task": "Put the probe on the right side of the abdomen."}
+{"task_index": 266, "task": "Put the probe over the right side of the abdomen."}
+{"task_index": 267, "task": "Set the probe on the right side of the abdomen."}
+{"task_index": 268, "task": "Apply the probe over the right side of the abdomen."}
+{"task_index": 269, "task": "Position the probe over the right side of the abdomen."}
+{"task_index": 270, "task": "Apply the probe on the right side of the abdomen."}
+{"task_index": 271, "task": "Place the probe over the right side of the abdomen."}
+{"task_index": 272, "task": "Place the probe on the right side of the abdomen."}
+{"task_index": 273, "task": "Position the probe on the right side of the abdomen."}
+{"task_index": 274, "task": "Set the probe over the right side of the abdomen."}
+{"task_index": 275, "task": "Apply the probe on a slightly lower position on the abdomen."}
+{"task_index": 276, "task": "Set the probe over the lower central abdomen."}
+{"task_index": 277, "task": "Apply the probe over the lower central abdomen."}
+{"task_index": 278, "task": "Place the probe over a slightly lower position on the abdomen."}
+{"task_index": 279, "task": "Place the probe over the lower central abdomen."}
+{"task_index": 280, "task": "Place the probe on the lower central abdomen."}
+{"task_index": 281, "task": "Position the probe over a slightly lower position on the abdomen."}
+{"task_index": 282, "task": "Put the probe on the lower central abdomen."}
+{"task_index": 283, "task": "Set the probe over a slightly lower position on the abdomen."}
+{"task_index": 284, "task": "Put the probe on a slightly lower position on the abdomen."}
+{"task_index": 285, "task": "Put the probe over the lower central abdomen."}
+{"task_index": 286, "task": "Put the probe over a slightly lower position on the abdomen."}
+{"task_index": 287, "task": "Position the probe over the lower central abdomen."}
+{"task_index": 288, "task": "Apply the probe over a slightly lower position on the abdomen."}
+{"task_index": 289, "task": "Position the probe on a slightly lower position on the abdomen."}
+{"task_index": 290, "task": "Set the probe on the lower central abdomen."}
+{"task_index": 291, "task": "Apply the probe on the lower central abdomen."}
+{"task_index": 292, "task": "Position the probe on the lower central abdomen."}
+{"task_index": 293, "task": "Set the probe on a slightly lower position on the abdomen."}
+{"task_index": 294, "task": "Place the probe on a slightly lower position on the abdomen."}
+{"task_index": 295, "task": "Position the probe over the upper abdomen."}
+{"task_index": 296, "task": "Place the probe over the upper abdomen."}
+{"task_index": 297, "task": "Position the probe on a slightly higher position on the abdomen."}
+{"task_index": 298, "task": "Put the probe over the upper abdomen."}
+{"task_index": 299, "task": "Position the probe over a slightly higher position on the abdomen."}
+{"task_index": 300, "task": "Set the probe on a slightly higher position on the abdomen."}
+{"task_index": 301, "task": "Set the probe on the upper abdomen."}
+{"task_index": 302, "task": "Set the probe over a slightly higher position on the abdomen."}
+{"task_index": 303, "task": "Put the probe over a slightly higher position on the abdomen."}
+{"task_index": 304, "task": "Put the probe on the upper abdomen."}
+{"task_index": 305, "task": "Position the probe on the upper abdomen."}
+{"task_index": 306, "task": "Place the probe on a slightly higher position on the abdomen."}
+{"task_index": 307, "task": "Put the probe on a slightly higher position on the abdomen."}
+{"task_index": 308, "task": "Place the probe over a slightly higher position on the abdomen."}
+{"task_index": 309, "task": "Place the probe on the upper abdomen."}
+{"task_index": 310, "task": "Apply the probe on a slightly higher position on the abdomen."}
+{"task_index": 311, "task": "Set the probe over the upper abdomen."}
+{"task_index": 312, "task": "Apply the probe over the upper abdomen."}
+{"task_index": 313, "task": "Apply the probe on the upper abdomen."}
+{"task_index": 314, "task": "Apply the probe over a slightly higher position on the abdomen."}
+{"task_index": 315, "task": "Apply the probe on the body's midline."}
+{"task_index": 316, "task": "Set the probe over the body's midline."}
+{"task_index": 317, "task": "Position the probe on the body's midline."}
+{"task_index": 318, "task": "Put the probe on the body's midline."}
+{"task_index": 319, "task": "Apply the probe over the body's midline."}
+{"task_index": 320, "task": "Set the probe on the body's midline."}
+{"task_index": 321, "task": "Position the probe over the body's midline."}
+{"task_index": 322, "task": "Place the probe on the body's midline."}
+{"task_index": 323, "task": "Place the probe over the body's midline."}
+{"task_index": 324, "task": "Put the probe over the body's midline."}
+{"task_index": 325, "task": "Navigate the probe to the Midsagittal plane."}
+{"task_index": 326, "task": "Align the probe with the Midsagittal plane."}
+{"task_index": 327, "task": "Move the probe to the Midsagittal plane."}
+{"task_index": 328, "task": "Put the probe in the Midsagittal plane."}
+{"task_index": 329, "task": "Position the probe in the Midsagittal plane."}
+{"task_index": 330, "task": "Place the probe in the Midsagittal plane."}
+{"task_index": 331, "task": "Set the probe to the Midsagittal plane."}
+{"task_index": 332, "task": "Set the probe at the Midsagittal plane."}
+{"task_index": 333, "task": "Align the probe with the right costal interspace section."}
+{"task_index": 334, "task": "Navigate the probe to the right costal interspace section."}
+{"task_index": 335, "task": "Set the probe to the right costal interspace section."}
+{"task_index": 336, "task": "Set the probe at the right costal interspace section."}
+{"task_index": 337, "task": "Position the probe in the right costal interspace section."}
+{"task_index": 338, "task": "Place the probe in the right costal interspace section."}
+{"task_index": 339, "task": "Move the probe to the right costal interspace section."}
+{"task_index": 340, "task": "Put the probe in the right costal interspace section."}
+{"task_index": 341, "task": "Align the probe with the left costal interspace section."}
+{"task_index": 342, "task": "Move the probe to the left costal interspace section."}
+{"task_index": 343, "task": "Set the probe to the left costal interspace section."}
+{"task_index": 344, "task": "Place the probe in the left costal interspace section."}
+{"task_index": 345, "task": "Put the probe in the left costal interspace section."}
+{"task_index": 346, "task": "Set the probe at the left costal interspace section."}
+{"task_index": 347, "task": "Navigate the probe to the left costal interspace section."}
+{"task_index": 348, "task": "Position the probe in the left costal interspace section."}
+{"task_index": 349, "task": "Set the probe at the axial section."}
+{"task_index": 350, "task": "Move the probe to the axial section."}
+{"task_index": 351, "task": "Put the probe in the axial section."}
+{"task_index": 352, "task": "Set the probe to the axial section."}
+{"task_index": 353, "task": "Position the probe in the axial section."}
+{"task_index": 354, "task": "Place the probe in the axial section."}
+{"task_index": 355, "task": "Navigate the probe to the axial section."}
+{"task_index": 356, "task": "Align the probe with the axial section."}
+{"task_index": 357, "task": "Align the probe with the right costal arch."}
+{"task_index": 358, "task": "Set the probe at the right costal arch."}
+{"task_index": 359, "task": "Place the probe in the right costal arch."}
+{"task_index": 360, "task": "Position the probe in the right costal arch."}
+{"task_index": 361, "task": "Put the probe in the right costal arch."}
+{"task_index": 362, "task": "Slide under the right ribs to sweep the hepatic dome."}
+{"task_index": 363, "task": "Shift under the right chest wall to track the hepatic dome."}
+{"task_index": 364, "task": "Shift cephalad under the right costal margin to scan the superior liver."}
+{"task_index": 365, "task": "Move superiorly under the right thoracic cage to track the liver dome."}
+{"task_index": 366, "task": "Slide under the right rib cage to scan the liver dome."}
+{"task_index": 367, "task": "Glide under the right thoracic cage to scan the liver dome."}
+{"task_index": 368, "task": "Glide under the right bony thorax to sweep the hepatic dome."}
+{"task_index": 369, "task": "Move cephalad under the right bony thorax to view the liver top."}
+{"task_index": 370, "task": "Glide superiorly under the right rib cage to scan the liver."}
+{"task_index": 371, "task": "Slide under the right rib cage to sweep the hepatic dome."}
+{"task_index": 372, "task": "Slide from the right liver parenchyma toward the midline."}
+{"task_index": 373, "task": "Slide the probe from the right hepatic lobe to the midline."}
+{"task_index": 374, "task": "Glide from the right lobe toward the midline."}
+{"task_index": 375, "task": "Scan continuous from the right lobe to the midline."}
+{"task_index": 376, "task": "Sweep from the right lobe medially toward the midline."}
+{"task_index": 377, "task": "Move the probe from the right lobe towards the midline."}
+{"task_index": 378, "task": "Track from the right lobe medial aspect to the midline."}
+{"task_index": 379, "task": "Scan from the right liver lobe moving toward the midline."}
+{"task_index": 380, "task": "Glide medially from the right hepatic lobe to the midline."}
+{"task_index": 381, "task": "Sweep the probe from the right lobe to the midline."}
+{"task_index": 382, "task": "Perform a left subcostal scan to assess the hepatic left lobe."}
+{"task_index": 383, "task": "Explore the left lobe of the liver via the left subcostal approach."}
+{"task_index": 384, "task": "Glide the probe along the left rib cage to view the left liver lobe."}
+{"task_index": 385, "task": "Scan along the left subcostal region to inspect the hepatic left lobe."}
+{"task_index": 386, "task": "Image the left lobe of the liver from below the left costal margin."}
+{"task_index": 387, "task": "Assess the hepatic left lobe by sweeping under the left ribs."}
+{"task_index": 388, "task": "Track along the left costal margin to examine the liver's left lobe."}
+{"task_index": 389, "task": "Follow the procedure for a transverse plane image of the gallbladder."}
+{"task_index": 390, "task": "Track the gallbladder in the transverse axis view."}
+{"task_index": 391, "task": "Scan the gallbladder long axis from neck to fundus."}
+{"task_index": 392, "task": "Perform a longitudinal scan of the gallbladder from neck to fundus."}
+{"task_index": 393, "task": "Examine the gallbladder longitudinal plane from cephalad to caudal."}
+{"task_index": 394, "task": "Conduct a longitudinal sweep of the gallbladder from superior to inferior."}
+{"task_index": 395, "task": "Follow the gallbladder long axis from cephalad to caudal."}
+{"task_index": 396, "task": "Track the gallbladder long axis from neck to fundus."}
+{"task_index": 397, "task": "Perform a transverse sweep across the gallbladder body."}
+{"task_index": 398, "task": "Perform a transverse scan of the gallbladder body."}
+{"task_index": 399, "task": "Examine the gallbladder transversely at its maximal diameter."}
+{"task_index": 400, "task": "Track the gallbladder long axis from superior to inferior."}
+{"task_index": 401, "task": "Conduct a transverse survey of the gallbladder structure."}
+{"task_index": 402, "task": "Scan the gallbladder transverse plane for width measurement."}
+{"task_index": 403, "task": "Fine tune gallbladder to center."}
+{"task_index": 404, "task": "Slide probe to center the gallbladder."}
+{"task_index": 405, "task": "Place the gallbladder in the center."}
+{"task_index": 406, "task": "Position the gallbladder in the center."}
+{"task_index": 407, "task": "Move probe to center the gallbladder."}
+{"task_index": 408, "task": "Adjust probe to center the gallbladder."}
+{"task_index": 409, "task": "Center the gallbladder."}
+{"task_index": 410, "task": "Shift probe to center the gallbladder."}
+{"task_index": 411, "task": "Focus on the gallbladder center."}
+{"task_index": 412, "task": "Scan the gallbladder long axis from superior to inferior."}
+{"task_index": 413, "task": "Scan the gallbladder in the transverse axis view."}
+{"task_index": 414, "task": "Conduct a transverse view acquisition of the gallbladder."}
+{"task_index": 415, "task": "Examine the gallbladder transversely for its cross section."}
+{"task_index": 416, "task": "Set the gallbladder in the center."}
+{"task_index": 417, "task": "Examine the gallbladder longitudinal view from cephalad to caudal."}
+{"task_index": 418, "task": "Perform a longitudinal scan of the gallbladder from superior to inferior."}
+{"task_index": 419, "task": "Slide across the abdomen from the pancreatic head to the tail."}
+{"task_index": 420, "task": "Move the probe continuously from the pancreatic head to the tail."}
+{"task_index": 421, "task": "Glide cephalad to sweep the pancreatic head and PV confluence."}
+{"task_index": 422, "task": "Track the full length of the pancreas from head to tail."}
+{"task_index": 423, "task": "Sweep the probe from pancreatic head to tail."}
+{"task_index": 424, "task": "Sweep the pancreas from the head region to the tail."}
+{"task_index": 425, "task": "Glide upward to track the pancreatic head near the portal vein confluence."}
+{"task_index": 426, "task": "Move obliquely across the epigastric region to display the full pancreas."}
+{"task_index": 427, "task": "Scan at an angle across the epigastrium to capture the entire pancreas."}
+{"task_index": 428, "task": "Glide in an oblique view across the epigastric region to include the entire pancreas."}
+{"task_index": 429, "task": "Move the probe diagonally across the epigastrium to display the complete pancreas."}
+{"task_index": 430, "task": "Glide obliquely across the epigastrium to reveal the complete pancreas."}
+{"task_index": 431, "task": "Slide diagonally across the epigastric zone to display the entire pancreas."}
+{"task_index": 432, "task": "Track across the epigastrium at an angle to show the full pancreas."}
+{"task_index": 433, "task": "Slide upward to scan the pancreatic head and portal vein confluence."}
+{"task_index": 434, "task": "Shift upward to trace the pancreatic head at the portal vein confluence."}
+{"task_index": 435, "task": "Move the probe cephalad to view the pancreatic head and PV confluence."}
+{"task_index": 436, "task": "Move superiorly to track the pancreatic head and portal vein confluence."}
+{"task_index": 437, "task": "Glide the probe from the pancreatic head towards the tail."}
+{"task_index": 438, "task": "Trace the pancreatic structure from the head to the tail."}
+{"task_index": 439, "task": "Scan transversely from the pancreatic head to the tail."}
+{"task_index": 440, "task": "Sweep superiorly to visualize the pancreatic head and PV confluence."}
+{"task_index": 441, "task": "Glide along the pancreas from the head to the tail."}
+{"task_index": 442, "task": "Scan the pancreas from the head segment to the tail."}
+{"task_index": 443, "task": "Sweep at an angle across the epigastric region to visualize the full pancreas."}
+{"task_index": 444, "task": "Sweep diagonally in the epigastric region to include the whole pancreas."}
+{"task_index": 445, "task": "Scan in an oblique view across the epigastrium to capture the whole pancreas."}
+{"task_index": 446, "task": "Slide superiorly to scan the head of the pancreas and portal vein confluence."}
+{"task_index": 447, "task": "Scan superiorly to include the pancreatic head and portal vein confluence."}
+{"task_index": 448, "task": "Track cephalad to scan the pancreatic head and portal vein confluence."}
+{"task_index": 449, "task": "Trace the aorta longitudinally down the center of the abdomen."}
+{"task_index": 450, "task": "Move along the midline to scan the aorta length."}
+{"task_index": 451, "task": "Perform a longitudinal scan of the aorta at the midline."}
+{"task_index": 452, "task": "Track the aorta longitudinally in the midline plane."}
+{"task_index": 453, "task": "Glide the probe down the midline to trace the aorta longitudinally."}
+{"task_index": 454, "task": "Sweep longitudinally along the midline for the aortic view."}
+{"task_index": 455, "task": "Move transversely to scan over the aorta and IVC."}
+{"task_index": 456, "task": "Scan across the aorta and IVC in the transverse plane."}
+{"task_index": 457, "task": "Glide across the abdomen transversely covering the aorta and IVC."}
+{"task_index": 458, "task": "Sweep across the aorta and IVC in a transverse direction."}
+{"task_index": 459, "task": "Track transversely across the midline over the aorta and IVC."}
+{"task_index": 460, "task": "Sweep the probe transversely over the aorta and IVC."}
+{"task_index": 461, "task": "Perform a transverse sweep across the aorta and IVC."}
+{"task_index": 462, "task": "Scan transversely across the aorta and IVC structures."}
+{"task_index": 463, "task": "Move the probe caudally to track the aorta to the bifurcation."}
+{"task_index": 464, "task": "Trace the aorta flow inferiorly from diaphragm to bifurcation."}
+{"task_index": 465, "task": "Glide inferiorly from the diaphragm to the aortic bifurcation."}
+{"task_index": 466, "task": "Track the aorta caudally from the diaphragm to the bifurcation."}
+{"task_index": 467, "task": "Follow the aorta downward until it bifurcates."}
+{"task_index": 468, "task": "Scan from the diaphragm level down to the aortic bifurcation."}
+{"task_index": 469, "task": "Sweep down the aorta from the diaphragm to the bifurcation."}
+{"task_index": 470, "task": "Scan the aorta longitudinally along the midline."}
+{"task_index": 471, "task": "Slide along the abdominal midline to view the aorta lengthwise."}
+{"task_index": 472, "task": "Glide along the midline to view the aorta in long axis."}
+{"task_index": 473, "task": "Sweep the probe along the midline to capture the longitudinal aorta."}
+{"task_index": 474, "task": "Slide the probe in a transverse motion across the aorta and IVC."}
+{"task_index": 475, "task": "Scan downward from the proximal aorta to the bifurcation."}
+{"task_index": 476, "task": "Trace the abdominal aorta from the diaphragm down to the split."}
+{"task_index": 477, "task": "Sweep from the upper abdomen down to the iliac bifurcation."}
+{"task_index": 478, "task": "Move the probe transversely across the aorta and IVC."}
+{"task_index": 479, "task": "Set the probe at the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 480, "task": "Move the probe to the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 481, "task": "Navigate the probe to the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 482, "task": "Align the probe with the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 483, "task": "Place the probe in the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 484, "task": "Position the probe in the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 485, "task": "Orient the probe to the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 486, "task": "Set the probe to the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 487, "task": "Adjust the probe to the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 488, "task": "Put the probe in the transverse plane centered on the trachea showing both thyroid lobes."}
+{"task_index": 489, "task": "Orient the probe to the longitudinal plane of the left thyroid lobe."}
+{"task_index": 490, "task": "Align the probe with the longitudinal plane of the left thyroid lobe."}
+{"task_index": 491, "task": "Position the probe in the longitudinal plane of the left thyroid lobe."}
+{"task_index": 492, "task": "Put the probe in the longitudinal plane of the left thyroid lobe."}
+{"task_index": 493, "task": "Move the probe to the longitudinal plane of the left thyroid lobe."}
+{"task_index": 494, "task": "Navigate the probe to the longitudinal plane of the left thyroid lobe."}
+{"task_index": 495, "task": "Place the probe in the longitudinal plane of the left thyroid lobe."}
+{"task_index": 496, "task": "Set the probe at the longitudinal plane of the left thyroid lobe."}
+{"task_index": 497, "task": "Set the probe to the longitudinal plane of the left thyroid lobe."}
+{"task_index": 498, "task": "Adjust the probe to the longitudinal plane of the left thyroid lobe."}
+{"task_index": 499, "task": "Set the probe at the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 500, "task": "Place the probe in the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 501, "task": "Position the probe in the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 502, "task": "Put the probe in the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 503, "task": "Align the probe with the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 504, "task": "Navigate the probe to the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 505, "task": "Set the probe to the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 506, "task": "Align the probe with the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 507, "task": "Set the probe at the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 508, "task": "Orient the probe to the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 509, "task": "Navigate the probe to the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 510, "task": "Move the probe to the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 511, "task": "Put the probe in the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 512, "task": "Place the probe in the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 513, "task": "Adjust the probe to the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 514, "task": "Set the probe to the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 515, "task": "Position the probe in the transverse plane showing the right carotid artery and jugular vein."}
+{"task_index": 516, "task": "Move the probe to the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 517, "task": "Orient the probe to the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 518, "task": "Adjust the probe to the transverse plane showing the left carotid artery and jugular vein."}
+{"task_index": 519, "task": "Place the probe in the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 520, "task": "Position the probe in the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 521, "task": "Adjust the probe to the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 522, "task": "Navigate the probe to the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 523, "task": "Set the probe at the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 524, "task": "Set the probe to the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 525, "task": "Move the probe to the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 526, "task": "Put the probe in the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 527, "task": "Align the probe with the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 528, "task": "Orient the probe to the transverse plane crossing the thyroid isthmus over the trachea."}
+{"task_index": 529, "task": "Adjust the probe to the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 530, "task": "Align the probe with the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 531, "task": "Navigate the probe to the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 532, "task": "Position the probe in the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 533, "task": "Set the probe at the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 534, "task": "Put the probe in the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 535, "task": "Orient the probe to the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 536, "task": "Move the probe to the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 537, "task": "Place the probe in the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 538, "task": "Set the probe to the oblique plane including the left thyroid lobe and adjacent carotid artery."}
+{"task_index": 539, "task": "Place the probe centrally on the neck over the thyroid."}
+{"task_index": 540, "task": "Position the probe over the thyroid region at the center of the neck."}
+{"task_index": 541, "task": "Position the probe over the thyroid at the neck center."}
+{"task_index": 542, "task": "Center the probe over the thyroid region at the middle of the neck."}
+{"task_index": 543, "task": "Position the probe at the neck center covering the thyroid region."}
+{"task_index": 544, "task": "Place the probe at the midline of the neck over the thyroid region."}
+{"task_index": 545, "task": "Align the probe with the center of the neck over the thyroid."}
+{"task_index": 546, "task": "Center the probe on the neck over the thyroid region."}
+{"task_index": 547, "task": "Place the probe at the center of the neck over the thyroid region."}
+{"task_index": 548, "task": "Place the probe in the middle of the neck over the thyroid region."}
+{"task_index": 549, "task": "Align the probe with the right thyroid lobe."}
+{"task_index": 550, "task": "Place the probe directly over the right thyroid lobe."}
+{"task_index": 551, "task": "Position the probe at the right thyroid lobe region."}
+{"task_index": 552, "task": "Place the probe on the right side over the thyroid lobe."}
+{"task_index": 553, "task": "Position the probe laterally over the right thyroid lobe."}
+{"task_index": 554, "task": "Position the probe near the lobe on the right side."}
+{"task_index": 555, "task": "Place the probe to cover the right thyroid lobe."}
+{"task_index": 556, "task": "Position the probe over the right thyroid lobe."}
+{"task_index": 557, "task": "Place the probe near the right thyroid lobe."}
+{"task_index": 558, "task": "Center the probe over the right thyroid lobe."}
+{"task_index": 559, "task": "Place the probe to cover the left thyroid lobe."}
+{"task_index": 560, "task": "Position the probe laterally over the left thyroid lobe."}
+{"task_index": 561, "task": "Place the probe on the left side over the thyroid lobe."}
+{"task_index": 562, "task": "Position the probe over the left thyroid lobe."}
+{"task_index": 563, "task": "Center the probe over the left thyroid lobe."}
+{"task_index": 564, "task": "Place the probe near the left thyroid lobe."}
+{"task_index": 565, "task": "Position the probe near the lobe on the left side."}
+{"task_index": 566, "task": "Position the probe at the left thyroid lobe region."}
+{"task_index": 567, "task": "Align the probe with the left thyroid lobe."}
+{"task_index": 568, "task": "Place the probe directly over the left thyroid lobe."}
+{"task_index": 569, "task": "Center the probe over the right carotid artery."}
+{"task_index": 570, "task": "Place the probe over the right common carotid artery."}
+{"task_index": 571, "task": "Align the probe with the right carotid artery region."}
+{"task_index": 572, "task": "Position the probe to cover the right carotid artery."}
+{"task_index": 573, "task": "Place the probe directly over the right carotid artery."}
+{"task_index": 574, "task": "Center the probe on the right carotid artery region."}
+{"task_index": 575, "task": "Place the probe at the right carotid artery location."}
+{"task_index": 576, "task": "Position the probe on the right side over the carotid artery."}
+{"task_index": 577, "task": "Position the probe over the artery on the right side."}
+{"task_index": 578, "task": "Place the probe over the right carotid artery region."}
+{"task_index": 579, "task": "Position the probe to cover the left jugular vein."}
+{"task_index": 580, "task": "Position the probe on the left side over the jugular vein."}
+{"task_index": 581, "task": "Position the probe over the vein on the left side."}
+{"task_index": 582, "task": "Place the probe near the left internal jugular vein."}
+{"task_index": 583, "task": "Place the probe directly over the left jugular vein."}
+{"task_index": 584, "task": "Center the probe on the left jugular vein."}
+{"task_index": 585, "task": "Position the probe near the left jugular vein."}
+{"task_index": 586, "task": "Place the probe at the left jugular vein location."}
+{"task_index": 587, "task": "Align the probe with the left jugular vein."}
+{"task_index": 588, "task": "Place the probe over the left jugular vein."}
+{"task_index": 589, "task": "Place the probe over the left common carotid artery."}
+{"task_index": 590, "task": "Position the probe over the artery on the left side."}
+{"task_index": 591, "task": "Position the probe to cover the left carotid artery."}
+{"task_index": 592, "task": "Position the probe on the left side over the carotid artery."}
+{"task_index": 593, "task": "Align the probe with the left carotid artery region."}
+{"task_index": 594, "task": "Place the probe at the left carotid artery location."}
+{"task_index": 595, "task": "Place the probe over the left carotid artery region."}
+{"task_index": 596, "task": "Place the probe directly over the left carotid artery."}
+{"task_index": 597, "task": "Center the probe on the left carotid artery region."}
+{"task_index": 598, "task": "Center the probe over the left carotid artery."}
