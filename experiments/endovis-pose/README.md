@@ -21,11 +21,20 @@ At inference we used box confidence ≥0.25 and both clasper scores ≥0.50 for 
 
 On Dataset4 we also inspected [position and speed around a high-error interval](figures/dataset4-motion.png). Visually, these errors coincide with reflections or low contrast in some frames; causality was not tested. On a training sequence, a [controlled two-tool detection gap](figures/two-tool-rejoin.png) showed ID recovery after five suppressed detections. A separate [image-space occlusion experiment](results/spatial-video-occlusion.json) reran the model with masks at the head, tip, and shaft. The one-second tip mask caused a persistent position offset while ID remained unchanged. The apparent speed spikes are not independently verified motion. Natural occlusion recovery in held-out video and velocity accuracy remain open.
 
+### Download the checkpoint and view the demos
+
+- [Trained EndoVis checkpoint](weights/best.pt) — the same weights used for the reported results.
+- [Five-keypoint occlusion video](media/videos/spatial-occlusion-five-keypoints.m4v) — original and masked-input predictions side by side, with boxes, five landmarks, IDs and estimated speeds.
+- [Controlled detection-gap video](media/videos/two-tool-comparison.m4v) and [midpoint-only occlusion video](media/videos/spatial-occlusion-comparison.m4v).
+- [Dataset4 pose predictions](media/dataset4-predictions/), [high-error overlay](media/dataset4-outliers.png), and [paired occlusion examples](media/occlusion-examples/).
+
+See [asset attribution and license information](media/README.md).
+
 ### Reproduce the experiments
 
 The recorded runtime was Python 3.14.6. Install the dependencies in [requirements.txt](requirements.txt) in a local environment. MATLAB with Computer Vision Toolbox was used only to export JIGSAWS ground truth.
 
-Data and checkpoints are obtained separately. Use the [OpenCAS EndoVis archive](https://archive.iar.kit.edu/opencas/index.html%3Fq%3Dnode%252F30.html), [Du et al.'s labels](https://github.com/surgical-vision/EndoVisPoseAnnotation), [Ultralytics Pose weights](https://docs.ultralytics.com/models/yolo26/), and the [JIGSAWS annotation release](https://shadowfax11.github.io/mfc_tracking/). This experiment directory contains code, numeric results and plots, without bundling the external videos, annotation exports, or learned weights.
+Obtain the source datasets and pretrained starting checkpoint separately. Use the [OpenCAS EndoVis archive](https://archive.iar.kit.edu/opencas/index.html%3Fq%3Dnode%252F30.html), [Du et al.'s labels](https://github.com/surgical-vision/EndoVisPoseAnnotation), [Ultralytics Pose weights](https://docs.ultralytics.com/models/yolo26/), and the [JIGSAWS annotation release](https://shadowfax11.github.io/mfc_tracking/). The trained checkpoint and selected processed EndoVis examples are included. The original datasets and JIGSAWS imagery are obtained from their respective providers.
 
 From the experiment directory, set the script path before changing into a separate training workspace:
 
@@ -41,7 +50,7 @@ python "$EXP/scripts/train_pose_full.py"
 Before running, put `yolo26n-pose.pt` and the label repository `EndoVisPoseAnnotation/` at the workspace root. Extract the training archive to yield `datasets/endovis2015/raw/Tracking_Robotic_Training/Training/Dataset1/Video.avi` (likewise for sequences 2–4). The conversion script writes `datasets/endovis2015/yolo_pose/data.yaml`. The training script prints the output directory; use its `weights/best.pt` or the existing course checkpoint for evaluation. Retraining can yield different metrics.
 
 ```bash
-WEIGHTS=/path/to/best.pt
+WEIGHTS="$EXP/weights/best.pt"
 python "$EXP/scripts/evaluate_endovis_precision.py" "$WEIGHTS" \
   "$WORK/datasets/endovis2015/yolo_pose" ./dataset4-eval
 python "$EXP/scripts/evaluate_endovis_occlusion.py" "$WEIGHTS" \
