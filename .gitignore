@@ -1,3 +1,25 @@
 .DS_Store
-
 /open_h_audit_output/
+
+.DS_Store
+/open_h_audit_output/
+
+# Original EndoVis dataset
+/EndoVisPoseAnnotation/
+
+# Original generated YOLO dataset
+/EndoVis_YOLO_Pose/
+
+# New YOLO dataset: exclude images, retain labels and configuration
+/EndoVis_YOLO_Pose_Dataset1/images/
+
+# Model training outputs
+/runs/
+*.pt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc

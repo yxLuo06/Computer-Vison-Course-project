@@ -1,0 +1,7 @@
+path: "c:/Users/default.LAPTOP-914PEJ5D/Documents/CV/Computer-Vison-Course-project/EndoVis_YOLO_Pose_Dataset1"
+train: images/train
+val: images/val
+names:
+  0: jaw_tip_region
+kpt_shape: [2, 3]
+flip_idx: [1, 0]
