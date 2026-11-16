@@ -1,0 +1,3 @@
+Provisional EndoVis pose dataset
+
+See conversion_report.json for provenance, exclusions, keypoint order, visibility policy and proxy-box limitations. TrackedPoint is intentionally omitted. Missing annotation does not imply absence. Disable horizontal flips (fliplr=0.0, flipud=0.0) until jaw semantics under reflection are verified. Validation is Dataset4 only; this is not the official test set. Original video frame 0 is provisionally mapped to annotation img_000001; first previews were visually checked, not every frame. Labels contain one instrument class; original tool IDs remain in the manifest for provenance and are not predicted track IDs.
