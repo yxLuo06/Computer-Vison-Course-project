@@ -1,0 +1,14 @@
+train: images/train
+val: images/val
+kpt_shape:
+- 5
+- 3
+names:
+  0: instrument
+kpt_names:
+  0:
+  - LeftClasperPoint
+  - RightClasperPoint
+  - HeadPoint
+  - ShaftPoint
+  - EndPoint
