@@ -1,0 +1,5 @@
+# Processed EndoVis examples
+
+The images and videos here are derived from the [EndoVis 2015 Instrument Subchallenge dataset](https://archive.iar.kit.edu/opencas/index.html%3Fq%3Dnode%252F30.html), distributed by OpenCAS under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/), as stated in the [OpenCAS license notice](https://archive.iar.kit.edu/opencas/index.html%3Fq%3Dnode%252F13.html). These processed visualizations are shared under the same license.
+
+Changes include predicted landmarks and boxes, ground-truth overlays where shown, simulated occlusion, track IDs, and estimated image-plane speeds. The two-tool videos use EndoVis training Dataset1 and play at half speed. The controlled-gap gray block is display-only; the masked-input videos rerun model inference on the altered frames. Ground-truth landmarks are credited to [Du et al.](https://doi.org/10.1109/TMI.2017.2787672). JIGSAWS images are available through the [dataset provider](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/).

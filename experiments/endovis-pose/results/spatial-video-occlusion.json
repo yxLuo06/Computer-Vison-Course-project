@@ -1,0 +1,111 @@
+{
+  "fps": 25,
+  "mask_side_px": 64,
+  "windows": [
+    {
+      "location": "Head",
+      "frames": [
+        80,
+        89
+      ],
+      "duration_s": 0.4,
+      "frames_near_clean_tip": 10,
+      "frames_same_id_near_clean_tip": 10,
+      "id1_no_output": 0,
+      "immediately_after": [
+        {
+          "frame": 90,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        },
+        {
+          "frame": 91,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        },
+        {
+          "frame": 92,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        }
+      ]
+    },
+    {
+      "location": "Tip",
+      "frames": [
+        105,
+        129
+      ],
+      "duration_s": 1.0,
+      "frames_near_clean_tip": 0,
+      "frames_same_id_near_clean_tip": 0,
+      "id1_no_output": 0,
+      "immediately_after": [
+        {
+          "frame": 130,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        },
+        {
+          "frame": 131,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        },
+        {
+          "frame": 132,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        }
+      ]
+    },
+    {
+      "location": "Shaft",
+      "frames": [
+        160,
+        169
+      ],
+      "duration_s": 0.4,
+      "frames_near_clean_tip": 10,
+      "frames_same_id_near_clean_tip": 10,
+      "id1_no_output": 0,
+      "immediately_after": [
+        {
+          "frame": 170,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        },
+        {
+          "frame": 171,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        },
+        {
+          "frame": 172,
+          "id_near_clean_id1": 1,
+          "id1_status": "linked",
+          "id1_speed_present": true
+        }
+      ]
+    }
+  ],
+  "clean": {
+    "annotated_instances": 64,
+    "matched": 64,
+    "observed_id_switches": 0,
+    "velocity_samples": 320
+  },
+  "occluded": {
+    "annotated_instances": 64,
+    "matched": 59,
+    "observed_id_switches": 0,
+    "velocity_samples": 320
+  }
+}

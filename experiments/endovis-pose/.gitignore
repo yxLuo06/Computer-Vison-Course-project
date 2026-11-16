@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+datasets/
+runs/
+*.pt
+*.avi
+*.mp4
+*.m4v
+
+# Published course artifacts
+!/weights/best.pt
+!/media/videos/*.m4v
