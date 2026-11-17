@@ -8,6 +8,8 @@ The [EndoVis Pose experiment](experiments/endovis-pose/README.md) documents the 
 - Official EndoVis test: **98.47% precision**, **61.76% recall** at 20 px; recall dropped to **49.32%** in the two separately recorded sequences.
 - Controlled occlusion and two-instrument demonstrations are documented. Reliable identity through natural occlusion and velocity accuracy have not yet been established.
 
+- [SurgPose stereo tip localization](experiments/surgpose-tip/README.md) adapts the EndoVis checkpoint to SurgPose and includes a reproducible stereo overlay for held-out sequence 000011.
+
 - click [here](https://whiteboard.cloud.microsoft/me/whiteboards/p/c3BvOmh0dHBzOi8vbGl2ZWpvaG5zaG9wa2lucy1teS5zaGFyZXBvaW50LmNvbS9wZXJzb25hbC9hY2hlcnV2Ml9qaF9lZHU%3d/b!reAG3KHhS0aF67rzwluLoFWuxjk4lm5Gk9qaOkSgffEI5GWe4kiDT5oXWVzVnAmd/01DEIPJTX726LX3CGVOREZ3MOCWX6DKZ3L?fromShare=true) to write board
 - click [here](https://jhu.instructure.com/courses/132294) to Canvas
 - click [here](https://livejohnshopkins-my.sharepoint.com/:w:/g/personal/acheruv2_jh_edu/IQBN9RqY8ZXrRK03YlWsyuwFAWJvzYI30u94DS1zw56gDf4?e=qS2Mm1) to Pre-proposal (Shared Documents)
