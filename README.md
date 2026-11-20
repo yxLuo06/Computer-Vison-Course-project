@@ -1,4 +1,4 @@
-# Kinematics Labelling on Video Frames
+# EN.601.661(02) Computer Vision - Course Project
 
 ## Implemented: YOLO Pose instrument tracking
 
